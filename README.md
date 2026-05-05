@@ -1,4 +1,7 @@
-## SOCIAL MEDIA DETOXIFIER 
+## Real-Time Toxicity Detection and Mitigation in Social Media Using Reinforcement Learning
+
+[![Research Paper](https://img.shields.io/badge/Research%20Paper-Read-green?style=for-the-badge)](https://doi.org/10.1007/978-981-95-0183-0_8)
+
 ### Modules of our Project:
 
 ## AUDIO ANALYSER: Helps to generate text strings from large audio dataset files.
