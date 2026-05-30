@@ -4,7 +4,7 @@
 
 ### Modules of our Project:
 
-## AUDIO ANALYSER: Helps to generate text strings from large audio dataset files.
+### AUDIO ANALYSER: Helps to generate text strings from large audio dataset files.
 ![02](https://github.com/user-attachments/assets/1ee628fa-1164-4911-b4ac-2e0ab570ce30)
 
 ### VIDEO ANALYZER: Helps to analyse large video containing toxic elements, thereby fetching the audio recording from it and automatically saving it in desired formats such as .wav, .mp3 etc. for performing further analysis.
