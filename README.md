@@ -10,7 +10,7 @@
 - VIDEO ANALYZER: Helps to analyse large video containing toxic elements, thereby fetching the audio recording from it and automatically saving it in desired formats such as .wav, .mp3 etc. for performing further analysis.
 ![03](https://github.com/user-attachments/assets/673df861-5ba3-40cd-bdfc-19b2a3d5b216)
 
--.IP TRACKER: Helping you to fetch the real time precise location coordinates of the Scammers.
+- IP TRACKER: Helping you to fetch the real time precise location coordinates of the Scammers.
 ![04](https://github.com/user-attachments/assets/2036cc52-56aa-490e-9c35-0bb76d0dfefc)
 
 - PHONE NUMBER TRACKER: Helps to track all the details associated with the Scammer's phone number such as Country, Location, Time Zone, and Authenticity of the Number based on past activity logs.
@@ -19,7 +19,7 @@
 - TOXICITY ANALYZER: Building a toxicity analyser to perform analysis on a large dataset model trained by us, in order to fetch the toxic comments present in it, it can be the tweets posted by a twitter user, comments on Instagram/FB etc. Also classifying them into their respective categories such as Severe Toxic, Harassment, Bullying, Threats, Obscene, Insult or Identity Hate.
 ![06](https://github.com/user-attachments/assets/a610ca5a-89c2-4dd4-9712-5d7fb6e38ab7)
 
--.DATA VISUALISATION: To get insights about comments, length, number of comments etc.
+- DATA VISUALISATION: To get insights about comments, length, number of comments etc.
 ![07](https://github.com/user-attachments/assets/6e295f90-bad1-4dec-9067-87d92c4c994b)
 
 ### Number of comments classified as toxic, severe_toxic etc. into respective categories depending on string length.
